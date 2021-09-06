@@ -1,0 +1,149 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 562.5%;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    color: #66BFBF;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font: normal;
+    font-size:2.5rem;
+    color: #11999E
+    ;
+
+
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+
+
+}
+.programmer{
+    font-weight: normal;
+}
+.footer-link{
+    color:#11999E;
+
+
+
+
+}
+.profile{
+    margin-top: 50px;
+
+}
+
+.top-container{
+    background-color: #E4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+}
+.middle-container{
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height:80px;
+    padding: 50px;
+   
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position:absolute;
+    top: 50px;
+    right: 300px;
+}
+.code{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+
+}
+.science{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+.my-brief{
+    color: #40514E;
+}
+hr{
+    color: #EAF6F6;
+    border: 10px dotted;
+    border-top: 0;
+    width: 10%;
+    
+
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    padding: 10px;
+
+}
+.footer-link:hover{
+    color: white;
+    transition: all 0.3s ease 0s;
+
+}
+
+#credit{
+    color: #EAF6F6;
+}
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:  80px auto;
+    border-radius: 7px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+
+
+
+}
+.btn:hover{
+    background-color: #11999E;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    transform: translateY(-7px);
+
+
+
+
+}
+.crentil{
+    color: #11999E;
+    text-decoration: none;
+
+}
